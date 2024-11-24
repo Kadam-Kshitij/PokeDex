@@ -9,3 +9,7 @@ To run the program, run the folowing command in the folder containing pokedex.py
 Next Button - Display the next pokemon in sequence</br>
 Previous Button - Display the previous pokemon in sequence</br>
 Search Button - Enter Pokemon Id/Name in the text box and press Search button.
+
+---
+# Screenshot
+![Logo](sample.png)
