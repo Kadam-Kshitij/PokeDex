@@ -1,4 +1,5 @@
 # PokeDex
+Contains information of 1025 pokemons with images
 
 # Running the program
 To run the program, run the folowing command in the folder containing pokedex.py file</br>
