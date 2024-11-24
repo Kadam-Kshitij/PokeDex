@@ -6,8 +6,8 @@ import PIL
 
 currentIndex = 1
 maxColumn = 5
-path = 'C:/Users/admin/Documents/Py/pokemon_data/content/pokemon_images/'
-csvPath = "C:/Users/admin/Documents/Py/pokemons2.csv"
+path = './pokemon_data/content/pokemon_images/'
+csvPath = "./pokemons2.csv"
 mediumFont = 15
 
 df = pd.read_csv(csvPath)
