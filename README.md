@@ -13,3 +13,8 @@ Search Button - Enter Pokemon Id/Name in the text box and press Search button.
 ---
 # Screenshot
 ![Logo](sample.png)
+
+---
+# Credits
+Pokemon data set available at
+https://www.kaggle.com/datasets/bhavyadhingra00020/complete-pokemon-dataset-9th-gen-img-tabular
